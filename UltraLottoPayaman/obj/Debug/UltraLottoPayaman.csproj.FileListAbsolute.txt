@@ -1,0 +1,14 @@
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\bin\Debug\UltraLottoPayaman.exe.config
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\bin\Debug\UltraLottoPayaman.exe
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\bin\Debug\UltraLottoPayaman.pdb
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman.csprojResolveAssemblyReference.cache
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman._642.resources
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman.Form1.resources
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman.Properties.Resources.resources
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman.csproj.GenerateResource.Cache
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman.exe
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman.pdb
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman._645.resources
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman._649.resources
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman._655.resources
+c:\users\jeric\documents\visual studio 2015\Projects\UltraLottoPayaman\UltraLottoPayaman\obj\Debug\UltraLottoPayaman._658.resources
